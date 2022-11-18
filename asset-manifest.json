@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/demo1/static/js/main.dbeebad2.js",
+    "index.html": "/demo1/index.html",
+    "main.dbeebad2.js.map": "/demo1/static/js/main.dbeebad2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbeebad2.js"
+  ]
+}
